@@ -1,0 +1,45 @@
+Onur Yasarlar:
+  name             : "Onur Yasarlar"
+  avatar           : "/assets/images/onur-photo-1.jpg"
+  bio              : "What do you wanna know about Onur?"
+  location         : "Wroclaw"
+  #email            : "yasarlar_onur@hotmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:yasarlar_onur@hotmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yasarlaro"
+
+Cansu Kavili:
+  name             : "Cansu Kavili"
+  avatar           : "/assets/images/cansu-photo-1.jpg"
+  bio              : "What do you wanna know about Cansu?"
+  location         : "Istanbul"
+  email            : "cansukavili@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:cansukavili@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ckavili"
+
+Together:
+  name             : "Onur Yasarlar & Cansu Kavili"
+  avatar           : "/assets/images/linux-tux.png"
+  bio              : "Two enthusiastic automation freaks and Linux lovers"
+  links:
+    - label: "Onur Yasarlar"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:yasarlar_onur@hotmail.com
+    - label: "Cansu Kavili"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:cansukavili@gmail.com
+    - label: "Onur Yasarlar"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yasarlaro"
+    - label: "Cansu Kavili"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ckavili"
